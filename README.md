@@ -1,7 +1,5 @@
 # Analyze-Global-Ecommerce-Sales
 
-## Project Overview
-
 ## Background
 ### Problem Statement
 Facing the challenge of increasing the company's profitability with a marketing and distribution strategy focused on segments that provide significant profits, with a profit growth target of 20% in certain product categories, implemented by designing sales strategies, distribution, and discount policies in one quarter to achieve long-term growth and competitive advantage.
